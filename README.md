@@ -1,5 +1,9 @@
 #  Display gravatational forces by Axis within a spi screen on the arduino Nano with ADXL345 Accelerometer 
 Arduino Nano &amp; ADXL345 &amp; TFT Screen
+
+![Screenshot_20231001_192410_Gallery](https://github.com/Jekyllz/adxl345tft/assets/24834166/e12f21d6-a370-4804-be30-0a793e261e89)
+
+
 Libraries Needed -
 * [Adafruit_GFX.h](https://learn.adafruit.com/adafruit-gfx-graphics-library/overview)    // Core graphics library
 * [Adafruit_ST7789.h](https://github.com/adafruit/Adafruit-ST7735-Library/blob/master/Adafruit_ST7789.h) // Hardware-specific library for ST7789
